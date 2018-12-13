@@ -475,7 +475,7 @@ public class CountingSort implements IArraySort {
 
 
 #### 9.2 动画演示
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206100037.gif)
+![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181213103908.gif)
 #### 9.3 参考代码
 
 ```
