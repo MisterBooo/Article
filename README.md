@@ -345,7 +345,7 @@ public class QuickSort implements IArraySort {
 
 
 #### 7.2 动画演示
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206100020.gif)
+![image](http://upload-images.jianshu.io/upload_images/1940317-047a907d162a4a0b.gif?imageMogr2/auto-orient/strip)
 #### 7.3 参考代码
 
 ```
@@ -475,7 +475,7 @@ public class CountingSort implements IArraySort {
 
 
 #### 9.2 动画演示
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181213103908.gif)
+![image](http://upload-images.jianshu.io/upload_images/1940317-a1a75cfcfc0d5fbd.gif?imageMogr2/auto-orient/strip)
 #### 9.3 参考代码
 
 ```
@@ -555,7 +555,7 @@ public class BucketSort implements IArraySort {
 
 
 #### 10.2 动画演示
-![](https://bucket-1257126549.cos.ap-guangzhou.myqcloud.com/20181206100057.gif)
+![image](http://upload-images.jianshu.io/upload_images/1940317-f795324456e5717d.gif?imageMogr2/auto-orient/strip)
 #### 10.3 参考代码
 
 ```
@@ -632,3 +632,4 @@ public class RadixSort implements IArraySort {
 ```
 
 说明：本文思路来源于：https://github.com/hustcc/JS-Sorting-Algorithm，整理人 hustcc。
+![QQ20181217-142752.png](https://upload-images.jianshu.io/upload_images/1940317-2dc41789eec731fb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
